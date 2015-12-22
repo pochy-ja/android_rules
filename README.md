@@ -6,4 +6,4 @@ android.rules for Android SDK on linux platform
 * sudo service udev restart
 * adb kill-server
 * adb start-server
-* adb devuces 
+* adb devices 
